@@ -3,11 +3,10 @@
 ## 🔹 Exercício 01 – Circuito com Resistores
 
 ### 1. Link da simulação
-Cole aqui o link exportado do Falstad.
-
----
+https://www.falstad.com/circuit/
 
 ### 2. Cálculo da tensão e corrente no resistor de 1kΩ
+![Imagem1](image.png)
 
 Lei de Ohm:
 V = R * I
