@@ -24,9 +24,12 @@ V1k = R1k * I
 
 ### 3. Medição no simulador
 ![ImagemSimulador](./src/Circuito1Simulador.png) 
+
 - Valor Calculado: I = 5mA, Vr = 5V
-- Amperímetro ligado em série com o resistor de 1k 
+- Amperímetro ligado em série com o resistor de 1k
+- 
 ![CircuitoUmAmperimetro](./src/Circuito1Amperimetro.png)
+
 - Valor medido: I = 5mA
 
 ---
