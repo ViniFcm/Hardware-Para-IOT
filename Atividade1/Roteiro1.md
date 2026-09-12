@@ -25,6 +25,8 @@ V1k = R1k * I
 ### 3. Medição no simulador
 ![ImagemSimulador](./src/Circuito1Simulador.png) 
 
+[Link para a simulação](https://www.falstad.com/circuit/circuitjs.html?ctz=DwYwlgTgBAZgvAIgIwKgFwM6IAwDpsEECsqYIiSeATAVQOx0DM2AHFQGwCcndqIARoiLZUAB0EIALI1QA3CENQBbTEICmAWiQoAfACgoUYLKgAPCu2xQqkq0ktQkddqnjIXUAO5uRUJQENTWUUAen1DYGhzBCoidkdnazjrW1ccVAVkAgQwgyMoxGZJBPiilN8fDIpCHPCjTzMLO0TY+KcPStyIhujWkqgy9rSEES76xoQymys+6eHRuuAexFnbRwc52HTc4BDwCH0gA)
+
 - Valor Calculado: I = 5mA, Vr = 5V
 - Amperímetro ligado em série com o resistor de 1k
 - 
