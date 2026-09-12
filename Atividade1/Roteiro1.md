@@ -63,6 +63,8 @@ Não seria exatamente igual, pois:
 
 ### 1. Link da simulação
 https://www.falstad.com/circuit/
+
+
 ![CIrcuito2Simulado](./src/Circuito2Simulado.png)
 
 ---
