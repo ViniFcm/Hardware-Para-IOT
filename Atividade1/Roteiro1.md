@@ -6,7 +6,7 @@
 https://www.falstad.com/circuit/
 
 ### 2. Cálculo da tensão e corrente no resistor de 1kΩ
-![Imagem1](image.png)
+![Imagem1](./src/image.png)
 
 Lei de Ohm:
 V = R * I
@@ -23,9 +23,11 @@ V1k = R1k * I
 ---
 
 ### 3. Medição no simulador
-
-- Amperímetro ligado em série com o resistor de 1k  
-- Valor medido: ________
+![ImagemSimulador](./src/Circuito1Simulador.png) 
+- Valor Calculado: I = 5mA, Vr = 5V
+- Amperímetro ligado em série com o resistor de 1k 
+![CircuitoUmAmperimetro](./src/Circuito1Amperimetro.png)
+- Valor medido: I = 5mA
 
 ---
 
@@ -33,7 +35,7 @@ V1k = R1k * I
 
 O valor medido foi:
 
-- ( ) Igual  
+- (X) Igual  
 - ( ) Muito próximo  
 - ( ) Diferente  
 
@@ -54,9 +56,10 @@ Não seria exatamente igual, pois:
 ---
 
 ## 🔹 Experimento 02 – Circuito RC
+![CIrcuito2](./src/Circuito2.png)
 
 ### 1. Link da simulação
-Cole aqui o link.
+https://www.falstad.com/circuit/
 
 ---
 
@@ -71,16 +74,15 @@ Exemplo:
 
 ### 3. Tempo para atingir 1,9V
 
-Tempo medido no simulador: ________
+Tempo calculado para atingir 1,9V = 4,84s
+Tempo medido no simulador: 4,85 s
 
 ---
 
 ### 4. Discussão
-
+    
 #### a) Comparação com τ
 
-Em um circuito RC:
-V(t) = Vfinal * (1 - e^(-t/τ))
 
 Em 1τ, o capacitor atinge aproximadamente 63% da tensão final.
 
@@ -98,9 +100,6 @@ O capacitor carrega mais rápido.
 ---
 
 ### 5. Descarga do capacitor (posição B)
-
-Equação:
-V(t) = V0 * e^(-t/τ)
 
 Explicação:
 - O capacitor libera energia armazenada
