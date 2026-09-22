@@ -87,7 +87,8 @@ Acesse o arquivo do código [Código](src/aula06.ino)
 
 A intensidade luminosa do led varia de acordo com o valor da leitura do potenciômetro (Modo Manual) e do LDR (Mono Automático)
 
-
+### Funcionamento do circuito em Vídeo
+[Link para Acesso](https://www.youtube.com/watch?v=PjiLmydadak)
 
 
 
