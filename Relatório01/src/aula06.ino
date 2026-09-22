@@ -1,9 +1,3 @@
-# 📘 Relatório 01 – HIoT_06
-
-## Circuito que muda a intensidade do Led de acordo com a entrada analógica de potenciomêtro e LDR
-
-### 📄 Código 
-```
 const int PIN_POT = 32;   
 const int PIN_LDR = 34;   
 const int PIN_BOTAO = 26;  
@@ -76,18 +70,3 @@ void loop() {
     digitalWrite(PIN_LED2, estadoLed2);    
   }
 }
-```
-Acesse o arquivo do código [Código](src/aula06.ino)
-### ⚙️ Fotos da Montagem do Circuito 
-#### Led Apagado
-![Led Apagado](src/LedApagado.jpeg)
-#### Led Acesso
-![Led Acesso](src/LedAcesso.jpeg)
-![Led Acesso Potenciomêtro](src/LedAcessoPotenciometro.jpeg)
-
-A intensidade luminosa do led varia de acordo com o valor da leitura do potenciômetro (Modo Manual) e do LDR (Mono Automático)
-
-
-
-
-
